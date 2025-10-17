@@ -3,7 +3,7 @@
 
 # RACOON Research Group
 
-We research engagement in the Restoration and COnservation Of Nature (RACOON). This is an open, unofficial research group that includes people who research stewardship, program participation and knowledge mobilization in biodiversity restoration and conservation.
+We research engagement in the Restoration and COnservation Of Nature (RACOON). This is an open, unofficial research group located at the University of Waterloo that includes people who research stewardship, program participation and knowledge mobilization in biodiversity restoration and conservation.
 
 {% include section.html %}
 
