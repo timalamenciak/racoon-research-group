@@ -1,9 +1,9 @@
 ---
 ---
 
-# timalamenciak's Website
+# RACOON Research Group
 
-An engaging 1-3 sentence description of your lab.
+We research engagement in the Restoration and COnservation Of Nature (RACOON). This is an open, unofficial research group that includes people who research stewardship, program participation and knowledge mobilization in biodiversity restoration and conservation.
 
 {% include section.html %}
 
