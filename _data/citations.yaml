@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.biocon.2025.111552
+  title: Increasing the credibility of conservation plans through citizen science
+  authors:
+  - Jeffrey O. Hanson
+  - Jenny L. McCune
+  - Tim Alamenciak
+  - Joseph R. Bennett
+  publisher: Biological Conservation
+  date: '2026-01-01'
+  link: https://doi.org/g98xgq
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-032-06136-2_33
   title: "Ecolink: Towards a\_Knowledge Graph Schema for\_Complex Environmental Systems"
   authors:
@@ -140,6 +153,20 @@
   publisher: Restoration Ecology
   date: '2025-03-10'
   link: https://doi.org/g967kv
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.15086037
+  title: Code for "Increasing the credibility of conservation plans through citizen
+    science"
+  authors:
+  - Jeffrey O. Hanson
+  - Jenny L. McCune
+  - Tim Alamenciak
+  - Joseph R. Bennett
+  publisher: Zenodo
+  date: '2025-03-25'
+  link: https://doi.org/g9748w
   orcid: 0000-0002-1296-2528
   plugin: orcid.py
   file: orcid.yaml
