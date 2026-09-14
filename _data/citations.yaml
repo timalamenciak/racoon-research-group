@@ -1,5 +1,69 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/csp2.70372
+  title: Data, politics, and funding cause uncertainty for conservation practitioners
+  authors:
+  - Courtney C. D. Robichaud
+  - Christine Beaudoin
+  - Tim Alamenciak
+  - Jaimie G. Vincent
+  - Steven J. Cooke
+  - Vivian M. Nguyen
+  - Richard Schuster
+  - Nathan Young
+  - Joseph R. Bennett
+  publisher: Conservation Science and Practice
+  date: '2026-08-09'
+  link: https://doi.org/hcfwjr
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.19501992
+  title: Ecolink Model - Knowledge Graph Dataset (Nodes and Edges)
+  authors:
+  - Tim Alamenciak
+  - Kacey Hammond
+  publisher: Zenodo
+  date: '2026-04-10'
+  link: https://doi.org/hchttw
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.53962/j34z-1bks
+  title: 'PubCast: Dimensions of effective volunteer restoration techniques in North
+    America'
+  authors:
+  - Tim Alamenciak
+  publisher: ResearchEquals
+  date: '2026-03-20'
+  link: https://doi.org/hbtf3f
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.53962/vsna-4kyc
+  title: 'PubCast: Ecological restoration research in Canada: who, what, where, when,
+    why, and how?'
+  authors:
+  - Tim Alamenciak
+  publisher: ResearchEquals
+  date: '2026-03-20'
+  link: https://doi.org/hbtf3g
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biocon.2025.111552
+  title: Increasing the credibility of conservation plans through citizen science
+  authors:
+  - Jeffrey O. Hanson
+  - Jenny L. McCune
+  - Tim Alamenciak
+  - Joseph R. Bennett
+  publisher: Biological Conservation
+  date: '2026-01-01'
+  link: https://doi.org/g98xgq
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-032-06136-2_33
   title: "Ecolink: Towards a\_Knowledge Graph Schema for\_Complex Environmental Systems"
   authors:
@@ -143,6 +207,20 @@
   orcid: 0000-0002-1296-2528
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5281/zenodo.15086037
+  title: Code for "Increasing the credibility of conservation plans through citizen
+    science"
+  authors:
+  - Jeffrey O. Hanson
+  - Jenny L. McCune
+  - Tim Alamenciak
+  - Joseph R. Bennett
+  publisher: Zenodo
+  date: '2025-03-25'
+  link: https://doi.org/g9748w
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5281/zenodo.13237093
   title: Lab Media Toolbox v1.1
   authors:
@@ -154,14 +232,36 @@
   orcid: 0000-0002-1296-2528
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.53962/h3gv-g93x
+- id: doi:10.53962/x918-twy7
   title: 'PubCast: What makes a convivial community tool? Investigating grassroots
     ecological restoration'
   authors:
   - Tim Alamenciak
   publisher: ResearchEquals
   date: '2024-07-12'
+  link: https://doi.org/hb9j9g
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.53962/h3gv-g93x
+  title: 'PubCast: What makes a convivial community tool? Investigating grassroots
+    ecological restoration'
+  authors:
+  - Tim Alamenciak
+  publisher: Liberate Science GmbH
+  date: '2024-07-12'
   link: https://doi.org/g967kx
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.53962/pnv8-34c4
+  title: 'PubCast: Motivations for volunteers to participate in ecological restoration:
+    A systematic map'
+  authors:
+  - Tim Alamenciak
+  publisher: ResearchEquals
+  date: '2024-06-24'
+  link: https://doi.org/hb9j9h
   orcid: 0000-0002-1296-2528
   plugin: orcid.py
   file: orcid.yaml
@@ -170,7 +270,7 @@
     A systematic map'
   authors:
   - Tim Alamenciak
-  publisher: ResearchEquals
+  publisher: Liberate Science GmbH
   date: '2024-06-24'
   link: https://doi.org/g967kz
   orcid: 0000-0002-1296-2528
@@ -185,6 +285,17 @@
   publisher: Restoration Ecology
   date: '2024-04-19'
   link: https://doi.org/g967k2
+  orcid: 0000-0002-1296-2528
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5683/sp3/d6sjti
+  title: Codebook for "What makes a convivial community tool? Investigating grassroots
+    ecological restoration"
+  authors:
+  - Tim Alamenciak
+  publisher: Borealis
+  date: '2024-01-01'
+  link: https://doi.org/hbb8mj
   orcid: 0000-0002-1296-2528
   plugin: orcid.py
   file: orcid.yaml
